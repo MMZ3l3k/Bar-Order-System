@@ -1,0 +1,40 @@
+-----------------DANIA GLOWNE-----------------		-----------------Przystawki-----------------
+												
+
+------------------FAST FOOD-------------------		--------------------------------------------
+
+			
+0.		Hamburger				4.		Salatka grecka
+Bulka pszenna || Mieso wolowe || Ogorek || Pom		Ser feta || Pomidorki || Oliwki || Salata ||
+idor || Salata || Sos BBQ || 				Czerwona cebula || Swiezy ogorek ||
+Koszt		35.99zl					Koszt		12.00zl
+
+
+----------------------------------------------		---------------------------------------------		
+
+
+1.		Vege Burger				5.		Chlebki czosnkowe
+Bulka kukurydziana || Ala mieso z ciecierzycy		Chlebek pszenny || Maselko czosnkowe ||
+|| Salata || Pomidor || Ogorek || 			
+Koszt		38.57zl					Koszt 		10.11zl
+
+
+--------------------RYBY---------------------		---------------------Napoje-------------------
+
+
+2.		Losos w panierce			6.Coca Cola      0.7			20zl
+Losos w panierce || Ziemniaki ||  Surowka z m		7.Coca Cola Zero 0.5			15zl
+archewki oraz jablek 					8.Sprite         0.7			19zl
+Koszt		65.37zl					9.Domowa Herbata 0.3			12zl
+							
+	
+---------------------------------------------		---------------------Alkohole------------------
+							
+
+3.        Halibut z krazkami cebulowymi			10.Tyskie 0.5				12zl
+Halibut || Krazki cebulowe || Puree z groszku		11.Zywiec 0.5				15zl
+|| Ogorek kiszony					12.Lech   0.5				 7zl
+Koszt		55.21zl					13.Wojak  0.5				15zl
+						
+
+-------------------------------------------------------------------------------------------------------	

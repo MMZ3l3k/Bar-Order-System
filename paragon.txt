@@ -1,0 +1,11 @@
+Adress: Wzgórze Apokalipsy 62-420 ul. Apokaliptyczna 168
+Własciciel: Jack Steel
+Otwarte 8-23
+Imie: Karol
+Adres dostawy: koscielna 12
+ Godzina dostarczenia: 13
+------PARAGON_FISKALNY------
+Hamburger  1x35.99  35.99 zl
+Vege Burger  2x38.57  77.14 zl
+Lech 0.5  1x7  7 zl
+Całkowita cena: 135.13 zl

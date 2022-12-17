@@ -1,0 +1,28 @@
+35.99
+Hamburger
+38.57
+Vege Burger
+65.37
+Łosos w panierce
+55.21
+Halibut z krążkami cebulowymi
+12.00
+Salatka grecka
+10.11
+Chlebki czosnkowe
+20.00
+Coca Cola
+15.00
+Coca Cola Zero
+19.00
+Sprite
+12.00
+Domowa Herbata
+12.00
+Tyskie 0.5
+15.00
+Zywiec 0.5
+7.00
+Lech 0.5
+15.00
+Wojak 0.5
